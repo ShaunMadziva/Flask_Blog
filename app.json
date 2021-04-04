@@ -1,0 +1,7 @@
+{
+  "name": "Flask Blog App",
+  "description": "A C.R.U.D app built with python in the Flask framework",
+  "repository": "https://github.com/driftyco/ionic-heroku-button",
+  "logo": "http://www.unixstickers.com/image/data/stickers/flask/Flask-logo.sh.png",
+  "keywords": ["Flask", "Portfolio"]
+}
